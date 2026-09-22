@@ -22,4 +22,4 @@ Python • FastAPI • Pandas • scikit-learn • JavaScript • Git • Supaba
 
 ## Contact
 
-[your email or LinkedIn here]
+[Email: danielmbolonzi@gmail.com]
